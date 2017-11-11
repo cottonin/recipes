@@ -1,0 +1,359 @@
+[
+	{
+		"id": "arroz-con-pollo",
+		"name": "Arroz con pollo",
+		"type": "Segundo",
+		"difficulty": "Medio",
+		"origin": "Peru",
+		"description": "Arroz sazonado con cilantro y servido con pollo.",
+		"servings" : 6,
+		"time": 80,
+		"ingredients" : [
+			{
+				"quantity": 6,
+				"name": "piezas de pollo"
+			},
+			{
+				"quantity": 0.5,
+				"name": "tazas de aceite"
+			},
+			{
+				"quantity": 1,
+				"name": "cebolla"
+			},
+			{
+				"quantity": 3,
+				"name": "dientes de ajo"
+			},
+			{
+				"quantity": 1,
+				"name": "aji verde"
+			}
+			,{
+				"quantity": 1,
+				"name": "cucharadita de aji panca"
+			},
+			{
+				"quantity": 1.5,
+				"name": "tazas de cerveza negra",
+				"optional": true
+			},
+			{
+				"quantity": 3,
+				"name": "tazas de arroz"
+			},		{
+				"quantity": 0.25,
+				"name": "tazas de arverjas"
+			},
+			{
+				"quantity": 0.25,
+				"name": "tazas de choclo desgranado"
+			},
+			{
+				"quantity": 0.25,
+				"name": "tazas de zanahoria picada"
+			},
+			{
+				"quantity": 1,
+				"name": "pimiento"
+			}
+		]
+	},
+	{
+		"id": "panqueques-con-canela",
+		"name": "Panqueques con canela y fresas",
+		"type": "Desayuno",
+		"difficulty": "Fácil",
+		"origin": null,
+		"description": "Panqueuque servido con frutas frescas y vainilla",
+		"servings" : 4,
+		"time": 30,
+		"ingredients" : [
+			{
+				"quantity": 1,
+				"name": "litro de leche"
+			},
+			{
+				"quantity": 6,
+				"name": "huevos"
+			},
+			{
+				"quantity": 1,
+				"name": "cucharadita de vainilla"
+			},
+			{
+				"quantity": 50,
+				"name": "gramos de azúcar"
+			},
+			{
+				"quantity": 400,
+				"name": "gramos de harina"
+			}
+			,{
+				"quantity": 500,
+				"name": "gramos de fresa"
+			},
+			{
+				"quantity": 200,
+				"name": "gramos de queso Mascarpone"
+			},
+			{
+				"quantity": 2,
+				"name": "cucharaditas de mantequilla"
+			}
+		]
+	},
+	{
+		"id": "pisco-sour",
+		"name": "Pisco Sour",
+		"type": "Cóctel",
+		"difficulty": "Fácil",
+		"origin": "Peru",
+		"description": "Cóctel a base de Pisco y limón.",
+		"servings" : 2,
+		"time": 10,
+		"ingredients" : [
+			{
+				"quantity": 4,
+				"name": "onzas de pisco puro"
+			},
+			{
+				"quantity": 1,
+				"name": "onzas de jarabe de goma"
+			},
+			{
+				"quantity": 1,
+				"name": "onzas de jugo de limón"
+			},
+			{
+				"quantity": 0.5,
+				"name": "claras de huevo"
+			},
+			{
+				"quantity": 2,
+				"name": "cubos de hielo"
+			}
+			,{
+				"quantity": 2,
+				"name": "gotas de amargo de angostura"
+			}
+		]
+	},
+	{
+		"id": "fideo-a-lo-alfredo",
+		"name": "Fideo a lo Alfredo",
+		"type": "Fideos",
+		"difficulty": "Fácil",
+		"origin": "Italia",
+		"description": "Spaghetti con una salsa de mantequilla, queso y leche.",
+		"servings" : 6,
+		"time": 40,
+		"ingredients" : [
+			{
+				"quantity": 0.5,
+				"name": "kilo de fideos"
+			},
+			{
+				"quantity": 100,
+				"name": "gramos de mantequilla"
+			},
+			{
+				"quantity": 1,
+				"name": "lata de leche evaporada pura"
+			},
+			{
+				"quantity": 0.5,
+				"name": "tazas de queso parmesano rallado"
+			},
+			{
+				"quantity": 150,
+				"name": "gramos de jamón tipo ingles"
+			}
+		]
+	},
+	{
+		"id": "torta-de-manzana",
+		"name": "Torta de manzana",
+		"type": "Postre",
+		"difficulty": "Media",
+		"origin": null,
+		"description": "Pastel con trocitos de manzana",
+		"servings" : 20,
+		"time": 90,
+		"ingredients" : [
+			{
+				"quantity": 2,
+				"name": "tazas de harina"
+			},
+			{
+				"quantity": 250,
+				"name": "gramos de mantequilla"
+			},
+			{
+				"quantity": 2,
+				"name": "tazas de azúcar"
+			},
+			{
+				"quantity": 6,
+				"name": "huevos"
+			},
+			{
+				"quantity": 8,
+				"name": "manzanas"
+			}
+			,{
+				"quantity": null,
+				"name": "canela molida"
+			},{
+				"quantity": null,
+				"name": "polvo para hornear"
+			}
+		]
+	},
+	{
+		"id": "chicharron-de-pescado",
+		"name": "Chicharron de pescado",
+		"type": "Entrada",
+		"difficulty": "Media",
+		"origin": "Peru",
+		"description": "Trozos de pescado fritos y empanizados.",
+		"servings" : 4,
+		"time": 30,
+		"ingredients" : [
+			{
+				"quantity": 1,
+				"name": "kilo de pescado"
+			},
+			{
+				"quantity": 2,
+				"name": "limones"
+			},
+			{
+				"quantity": 2,
+				"name": "huevos"
+			},
+			{
+				"quantity": 0.5,
+				"name": "taza de harina"
+			},
+			{
+				"quantity": 0.5,
+				"name": "taza de maicena"
+			}
+			,{
+				"quantity": null,
+				"name": "aceite"
+			},
+			{
+				"quantity": null,
+				"name": "perejil"
+			},
+			{
+				"quantity": null,
+				"name": "sal y pimienta"
+			}
+		]
+	},
+	{
+		"id": "pavo-criollo-relleno",
+		"name": "Pavo criollo relleno",
+		"type": "Segundo",
+		"difficulty": "Dificil",
+		"origin": null,
+		"description": "Pavo de navidad con relleno.",
+		"servings" : 6,
+		"time": 200,
+		"ingredients" : [
+			{
+				"quantity": 1,
+				"name": "pavo de 7 kilos"
+			},
+			{
+				"quantity": 0.5,
+				"name": "tazas de ají colorado molido"
+			},
+			{
+				"quantity": 0.5,
+				"name": "tazas de sillao"
+			},
+			{
+				"quantity": 0.5,
+				"name": "tazas de vino blanco"
+			},
+			{
+				"quantity": 0.5,
+				"name": "tazas de aceite"
+			}
+			,{
+				"quantity": 3,
+				"name": "cucharadas de ají amarillo molido"
+			},
+			{
+				"quantity": 3,
+				"name": "cucharadas de ajos molidos"
+			},
+			{
+				"quantity": 1,
+				"name": "cucharada de sal"
+			},		{
+				"quantity": 1,
+				"name": "cucharada de ajinomoto"
+			},
+			{
+				"quantity": 0.5,
+				"name": "cucharaditas de pimienta"
+			},
+			{
+				"quantity": 0.5,
+				"name": "cucharaditas de comino"
+			},
+			{
+				"quantity": null,
+				"name": "orégano"
+			},
+			{
+				"quantity": 0.25,
+				"name": "kilos de cerdo molido"
+			},
+			{
+				"quantity": 0.25,
+				"name": "kilos pollo molido"
+			},		{
+				"quantity": 1,
+				"name": "cebolla mediana"
+			},
+			{
+				"quantity": 1,
+				"name": "pimiento soasadao y picado"
+			},
+			{
+				"quantity": 4,
+				"name": "tajadas de pan remojado en leche"
+			},
+			{
+				"quantity": 0.5,
+				"name": "tazas de arverjitas peladas"
+			},
+			{
+				"quantity": 50,
+				"name": "gramos de pecanas"
+			},
+			{
+				"quantity": 50,
+				"name": "gramos de pasas"
+			},
+			{
+				"quantity": 3,
+				"name": "huevos"
+			},
+			{
+				"quantity": 2,
+				"name": "cucharadas de vino"
+			},
+			{
+				"quantity": 1,
+				"name": "cucharada de ajo molido"
+			}
+		]
+	}
+]

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="cookbookApp">
+<head>
+	<meta charset="UTF-8">
+	<title>Recipes</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700">
+	<link rel="stylesheet" href="css/estilos.css">
+	<script src="bower_components/angular/angular.js"></script>
+	<script src="bower_components/angular-route/angular-route.js"></script>
+	<script src="bower_components/jquery/dist/jquery.js"></script>
+	<script src="app.module.js"></script>
+	<script src="app.config.js"></script>
+	<script src="recipe-list/recipe-list.module.js"></script>
+	<script src="recipe-list/recipe-list.component.js"></script>
+	<script src="recipe-detail/recipe-detail.module.js"></script>
+	<script src="recipe-detail/recipe-detail.component.js"></script>
+	<script src="ingredient-list/ingredient-list.module.js"></script>
+	<script src="ingredient-list/ingredient-list.component.js"></script>
+</head>
+<body>
+	<header id="header">
+		<div class="container">
+			<h1 class="title"><a href="#!/">Rad Recipes</a></h1><span id="tagline" class="small"></span>
+		</div>
+	</header> 
+	<main> 
+		<div class="container white" ng-view></div>
+	</main>
+	<footer id="footer">
+		<div class="container">
+			Rad Recipes is not actually a registered brand. But I'll still put &copy; 2017
+		</div>
+	</footer>
+	<script>
+		var messages = [
+			"Written poorly both in Spanish and English.",
+			"No foodies allowed.",
+			"Rad Recipes more like BAD Recipes.",
+			"/ck/ brought me here.",
+			"The only thing I really know how to cook is Alfredo.",
+			"Don't tell anyone I stole recipes from Nicolini",
+			"Pasta can be made at home.",
+			"[generic comment about pineapple pizza]",
+			"Why aren't you making blue rare chicken breast?",
+			"For me, it's the McChicken",
+			""
+		]
+
+		function getMessage() {
+		   return messages[Math.floor(Math.random() * messages.length)];
+		}
+
+		$("#tagline").text(getMessage());
+	</script>
+</body>
+</html>

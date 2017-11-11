@@ -1,0 +1,28 @@
+<div class="row">
+	<div class="col-lg-8">
+		<div id="recipe-image" style="background-image: url(images/recipes/{{$ctrl.recipes.id}}.jpg);"></div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-8">
+		<h1 id="recipe-tiitle">{{$ctrl.recipes.name}}</h1>
+		<p>{{$ctrl.recipes.description}}</p>
+		<ul id="recipe-details" class="has-margin">
+			<li><img src="images/icons/type.png" alt="Type of Food"> Tipo - <strong>{{$ctrl.recipes.type}}</strong></li>
+			<li><img src="images/icons/difficulty.png" alt="Difficulty"> Dificultad: <strong>{{$ctrl.recipes.difficulty}}</strong></li>
+		</ul>
+		<h2 class="recipe-subtitle underline">Ingredientes <span class="pull-right title-span"><img src="images/icons/servings.png" alt="Servings"><input type="text" value="{{$ctrl.recipes.servings}}" id="recipe-servings">Porciones</span></h2>
+		<ul id="recipe-ingredients" class="has-margin">
+			<li ng-style="myStyle" ng-click="isDone = !isDone" ng-class="{done: isDone}" ng-repeat="ingredient in $ctrl.ingredientsQuantity" class="col-md-6 recipe-ingredients-item">{{ingredient.quantity}} {{ingredient.item}}</li>
+		</ul>
+		<h2 class="recipe-subtitle underline">Preparación <span class="pull-right title-span"><img src="images/icons/time.png" alt="Time"> Tiempo de cocción: <strong>{{$ctrl.recipes.time}}</strong> minutos</span></h2>
+		<ol id="recipe-preparation" class="has-margin">
+			<li ng-repeat="preparation in $ctrl.recipes.preparation">
+				{{preparation.step}}
+			</li>
+		</ol>
+	</div>
+	<div class="col-md-4">
+
+	</div>
+</div>

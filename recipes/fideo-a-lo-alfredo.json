@@ -1,0 +1,32 @@
+{
+	"id": "fideo-a-lo-alfredo",
+	"name": "Fideo a lo Alfredo",
+	"type": "Fideos",
+	"difficulty": "Fácil",
+	"origin": "Italia",
+	"description": "Spaghetti con una salsa de mantequilla, queso y leche.",
+	"servings" : 6,
+	"time": 40,
+	"ingredients" : [
+		"kilo de fideos",
+		"gramos de mantequilla",
+		"lata de leche evaporada pura",
+		"tazas de queso parmesano rallado",
+		"gramos de jamón tipo ingles"
+	],
+	"quantity": [
+		0.5,
+		100,
+		1,
+		0.5,
+		150
+	],
+	"preparation": [
+		{
+			"step": "Poner a derretir en una cacerola la mantequilla con la leche. Cuando rompa el hervor, agregar el queso parmesano rallado y cocinar sin dejar de revolver y a fuego lento unos minutos más para reducir. Condimentar a gusto con sal, pimienta y nuez moscada."
+		},
+		{
+			"step": "PIncorporar el jamón cortado en cubitos y en el momento de servir mezclar suavemente con los Fideos Línea de Oro Nicolini cocidos al dente en abundante agua con sal."
+		}
+	]
+}

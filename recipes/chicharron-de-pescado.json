@@ -1,0 +1,41 @@
+{
+	"id": "chicharron-de-pescado",
+	"name": "Chicharron de pescado",
+	"type": "Entrada",
+	"difficulty": "Media",
+	"origin": "Peru",
+	"description": "Trozos de pescado fritos y empanizados.",
+	"servings" : 4,
+	"time": 30,
+	"ingredients": [
+		"kilo de pescado",
+		"limones",
+		"huevos",
+		"taza de harina",
+		"taza de maicena",
+		"aceite",
+		"perejil",
+		"sal y pimienta"
+	],
+	"quantity" : [
+		1,
+		2,
+		2,
+		0.5,
+		0.5,
+		null,
+		null,
+		null
+	],
+	"preparation": [
+		{
+			"step": "Limpiar bien el pescado y quitarle las espinas y la piel. Cortar en trozos de 2 a 3 cm. y sazonar con sal, pimienta y el jugo de un limón."
+		},
+		{
+			"step": "Mezclar la harina con la maicena y cubrir los trozos de pescado con esta mezcla. Pasar luego por el huevo ligeramente batido con una cucharada de agua."
+		},
+		{
+			"step": "Freír en abundante aceite caliente hasta que esten cocidos y dorados. Escurrir bien conforme se van retirand y colocar en papel absorbente. Servir con salsa tártara, yuca frita, salsa criolla y colocar un limón partido en 4."
+		}
+	]
+}

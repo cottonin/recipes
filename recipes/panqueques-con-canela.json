@@ -1,0 +1,41 @@
+{
+	"id": "panqueques-con-canela",
+	"name": "Panqueques con canela y fresas",
+	"type": "Desayuno",
+	"difficulty": "Fácil",
+	"origin": null,
+	"description": "Panqueuque servido con frutas frescas y vainilla",
+	"servings" : 4,
+	"time": 30,
+	"ingredients": [
+		"litro de leche",
+		"huevos",
+		"cucharadita de vainilla",
+		"gramos de azúcar",
+		"gramos de harina",
+		"gramos de fresa",
+		"gramos de queso Mascarpone",
+		"cucharaditas de mantequilla"
+	],
+	"quantity" : [
+		1,
+		6,
+		1,
+		50,
+		400,
+		500,
+		200,
+		2
+	],
+	"preparation": [
+		{
+			"step": "En un bol, mezclar la leche, los huevos, la esencia de vainilla, la sal y el azúcar. Batir bien para disolver todos los ingredientes."
+		},
+		{
+			"step": "Agregar la harina de golpe y seguir batiendo hasta formar una mezcla homogénea. En un recipiente redondo, previamente enmantequillado, cocinar una parte de la preparacion por dos minutos. Repetir hasta terminar la mezcla."
+		},
+		{
+			"step": "Rellenar con fresas frescas y un poco de queso Mascapone."
+		}
+	]
+}

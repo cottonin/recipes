@@ -1,0 +1,168 @@
+[
+	{
+		"name": "lacteos",
+		"items": [
+			"leche",
+			"huevo",
+			"leche condensada",
+			"mantequilla",
+			"queso cheddar",
+			"queso mozarella",
+			"queso americano",
+			"parmesano",
+			"yogurt",
+			"yogurt griego",
+			"queso mascarpone"
+		]},
+	{
+		"name": "carnes",
+		"items": [
+			"pollo",
+			"carne molida",
+			"tocino",
+			"salchicha",
+			"jamon",
+			"hot dog",
+			"pavo",
+			"chorizo",
+			"hamburguesa",
+			"pato"
+	]},
+	{
+		"name": "vegetales",
+		"items": [
+			"ajo",
+			"cebolla",
+			"aceituna",
+			"tomate",
+			"papa",
+			"zanahoria",
+			"romero",
+			"perejil",
+			"camote",
+			"espinaca",
+			"apio",
+			"poro",
+			"coliflor",
+			"zapallo",
+			"palta",
+			"choclo",
+			"cebolla china"
+		]
+	},
+	{
+		"name": "frutas",
+		"items": [
+			"limon",
+			"manzana",
+			"platano",
+			"piña",
+			"naranja",
+			"coco",
+			"durazno",
+			"uva",
+			"sandia",
+			"lima",
+			"cereza",
+			"pera",
+			"arandano",
+			"fresa",
+			"melon",
+			"granadilla",
+			"maracuya"
+		]
+	},
+	{
+		"name": "especias",
+		"items": [
+			"comino",
+			"vainilla",
+			"oregano",
+			"laurel"
+		]
+	},
+	{
+		"name": "mariscos",
+		"items": [
+			"atun",
+			"caballa",
+			"pota",
+			"choro",
+			"camaron",
+			"calamar",
+			"langosta"
+		]
+	},
+	{
+		"name": "granos",
+		"items": [
+			"pan frances",
+			"harina",
+			"arroz",
+			"fideos",
+			"galletas de soda",
+			"tortilla"]
+	},
+	{
+		"name": "cremas",
+		"items": [
+			"huancaina",
+			"tartara"
+		]
+	},
+	{
+		"name": "nueces",
+		"items": [
+			"mani",
+			"almendra",
+			"pecana"
+		]
+	},
+	{
+		"name": "postres",
+		"items": [
+			"chocolate",
+			"cocoa",
+			"nutella",
+			"manjarblanco",
+			"miel"
+		]
+	},
+	{
+		"name": "bebidas",
+		"items": [
+			"coca cola",
+			"te",
+			"limonada",
+			"sprite",
+			"gingerale"
+		]
+	},
+	{
+		"name": "sopas",
+		"items": [
+			"caldo de gallina",
+			"sopa de tomate"
+		]
+	},
+	{
+		"name": "legumbres",
+		"items": [
+			"lentejas",
+			"frijol canario",
+			"frijol castilla",
+			"pallares",
+			"arverjas"
+		]
+	},
+	{
+		"name": "alcohol",
+		"items": [
+			"pisco",
+			"ron",
+			"vino rose",
+			"vino tinto",
+			"vino blanco"
+		]
+	}
+]

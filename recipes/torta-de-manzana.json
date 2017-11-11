@@ -1,0 +1,42 @@
+{
+	"id": "torta-de-manzana",
+	"name": "Torta de manzana",
+	"type": "Postre",
+	"difficulty": "Media",
+	"origin": null,
+	"description": "Pastel con trocitos de manzana",
+	"servings" : 20,
+	"time": 90,
+	"ingredients" : [
+		"tazas de harina",
+		"gramos de mantequilla",
+		"tazas de azúcar",
+		"huevos",
+		"manzanas",
+		"canela molida",
+		"polvo para hornear"
+	],
+	"quantity": [
+		2,
+		250,
+		2,
+		6,
+		8,
+		null,
+		null
+	],
+	"preparation": [
+		{
+			"step": "Batir las claras a punto de nieve, luego batir las yemas, la mantequilla y el azúcar."
+		},
+		{
+			"step": "Pelar las manzanas y cortarlas en gajos, separar las más enteras para adornar y las mas pequeñas pasarlas por harina."
+		},
+		{
+			"step": "Mezclar la preparación con la harina, incorporar las manzanas y al final la preparación en forma envolvente. Vaciar en un molde enmantequillado y enharinado."
+		},
+		{
+			"step": "Colocar los gajos de manzana restantes y espolvorear azúcar y canela molida. Poner en el horno a 180° por una hora."
+		}
+	]
+}

@@ -1,0 +1,369 @@
+[
+    {
+        "name": "lacteos",
+        "items": [
+            {
+                "on": false,
+                "name":"leche"},
+            {
+                "on": false,
+                "name":"huevo"},
+            {
+                "on": false,
+                "name":"leche condensada"},
+            {
+                "on": false,
+                "name":"mantequilla"},
+            {
+                "on": false,
+                "name":"queso cheddar"},
+            {
+                "on": false,
+                "name":"queso mozarella"},
+            {
+                "on": false,
+                "name":"queso americano"},
+            {
+                "on": false,
+                "name":"parmesano"},
+            {
+                "on": false,
+                "name":"yogurt"},
+            {
+                "on": false,
+                "name":"yogurt griego"},
+            {
+                "on": false,
+                "name":"queso mascarpone"}
+        ]
+    },
+    {
+        "name": "carnes",
+        "items": [
+            {
+                "on": false,
+                "name":"pollo"},
+            {
+                "on": false,
+                "name":"carne molida"},
+            {
+                "on": false,
+                "name":"tocino"},
+            {
+                "on": false,
+                "name":"salchicha"},
+            {
+                "on": false,
+                "name":"jamon"},
+            {
+                "on": false,
+                "name":"hot dog"},
+            {
+                "on": false,
+                "name":"pavo"},
+            {
+                "on": false,
+                "name":"chorizo"},
+            {
+                "on": false,
+                "name":"hamburguesa"},
+            {
+                "on": false,
+                "name":"pato"}
+        ]
+    },
+    {
+        "name": "vegetales",
+        "items": [
+            {
+                "on": false,
+                "name":"ajo"},
+            {
+                "on": false,
+                "name":"cebolla"},
+            {
+                "on": false,
+                "name":"aceituna"},
+            {
+                "on": false,
+                "name":"tomate"},
+            {
+                "on": false,
+                "name":"papa"},
+            {
+                "on": false,
+                "name":"zanahoria"},
+            {
+                "on": false,
+                "name":"romero"},
+            {
+                "on": false,
+                "name":"perejil"},
+            {
+                "on": false,
+                "name":"camote"},
+            {
+                "on": false,
+                "name":"espinaca"},
+            {
+                "on": false,
+                "name":"apio"},
+            {
+                "on": false,
+                "name":"poro"},
+            {
+                "on": false,
+                "name":"coliflor"},
+            {
+                "on": false,
+                "name":"zapallo"},
+            {
+                "on": false,
+                "name":"palta"},
+            {
+                "on": false,
+                "name":"choclo"},
+            {
+                "on": false,
+                "name":"cebolla china"}
+        ]
+    },
+    {
+        "name": "frutas",
+        "items": [
+            {
+                "on": false,
+                "name":"limon"},
+            {
+                "on": false,
+                "name":"manzana"},
+            {
+                "on": false,
+                "name":"platano"},
+            {
+                "on": false,
+                "name":"piña"},
+            {
+                "on": false,
+                "name":"naranja"},
+            {
+                "on": false,
+                "name":"coco"},
+            {
+                "on": false,
+                "name":"durazno"},
+            {
+                "on": false,
+                "name":"uva"},
+            {
+                "on": false,
+                "name":"sandia"},
+            {
+                "on": false,
+                "name":"lima"},
+            {
+                "on": false,
+                "name":"cereza"},
+            {
+                "on": false,
+                "name":"pera"},
+            {
+                "on": false,
+                "name":"arandano"},
+            {
+                "on": false,
+                "name":"fresa"},
+            {
+                "on": false,
+                "name":"melon"},
+            {
+                "on": false,
+                "name":"granadilla"},
+            {
+                "on": false,
+                "name":"maracuya"}
+        ]
+    },
+    {
+        "name": "especias",
+        "items": [
+            {
+                "on": false,
+                "name":"comino"},
+            {
+                "on": false,
+                "name":"vainilla"},
+            {
+                "on": false,
+                "name":"oregano"},
+            {
+                "on": false,
+                "name":"laurel"}
+        ]
+    },
+    {
+        "name": "mariscos",
+        "items": [
+            {
+                "on": false,
+                "name":"atun"},
+            {
+                "on": false,
+                "name":"caballa"},
+            {
+                "on": false,
+                "name":"pota"},
+            {
+                "on": false,
+                "name":"choro"},
+            {
+                "on": false,
+                "name":"camaron"},
+            {
+                "on": false,
+                "name":"calamar"},
+            {
+                "on": false,
+                "name":"langosta"}
+        ]
+    },
+    {
+        "name": "granos",
+        "items": [
+            {
+                "on": false,
+                "name":"pan frances"},
+            {
+                "on": false,
+                "name":"harina"},
+            {
+                "on": false,
+                "name":"arroz"},
+            {
+                "on": false,
+                "name":"fideos"},
+            {
+                "on": false,
+                "name":"galletas de soda"},
+            {
+                "on": false,
+                "name":"tortilla"}
+        ]
+    },
+    {
+        "name": "cremas",
+        "items": [
+            {
+                "on": false,
+                "name":"huancaina"},
+            {
+                "on": false,
+                "name":"tartara"}
+        ]
+    },
+    {
+        "name": "nueces",
+        "items": [
+            {
+                "on": false,
+                "name":"mani"},
+            {
+                "on": false,
+                "name":"almendra"},
+            {
+                "on": false,
+                "name":"pecana"}
+        ]
+    },
+    {
+        "name": "postres",
+        "items": [
+            {
+                "on": false,
+                "name":"chocolate"},
+            {
+                "on": false,
+                "name":"cocoa"},
+            {
+                "on": false,
+                "name":"nutella"},
+            {
+                "on": false,
+                "name":"manjarblanco"},
+            {
+                "on": false,
+                "name":"miel"}
+        ]
+    },
+    {
+        "name": "bebidas",
+        "items": [
+            {
+                "on": false,
+                "name":"coca cola"},
+            {
+                "on": false,
+                "name":"te"},
+            {
+                "on": false,
+                "name":"limonada"},
+            {
+                "on": false,
+                "name":"sprite"},
+            {
+                "on": false,
+                "name":"gingerale"}
+        ]
+    },
+    {
+        "name": "sopas",
+        "items": [
+            {
+                "on": false,
+                "name":"caldo de gallina"},
+            {
+                "on": false,
+                "name":"sopa de tomate"}
+        ]
+    },
+    {
+        "name": "legumbres",
+        "items": [
+            {
+                "on": false,
+                "name":"lentejas"},
+            {
+                "on": false,
+                "name":"frijol canario"},
+            {
+                "on": false,
+                "name":"frijol castilla"},
+            {
+                "on": false,
+                "name":"pallares"},
+            {
+                "on": false,
+                "name":"arverjas"}
+        ]
+    },
+    {
+        "name": "alcohol",
+        "items": [
+            {
+                "on": false,
+                "name":"pisco"},
+            {
+                "on": false,
+                "name":"ron"},
+            {
+                "on": false,
+                "name":"vino rose"},
+            {
+                "on": false,
+                "name":"vino tinto"},
+            {
+                "on": false,
+                "name":"vino blanco"}
+        ]
+    }
+]

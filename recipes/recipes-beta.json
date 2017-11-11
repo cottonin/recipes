@@ -1,0 +1,155 @@
+[
+	{
+		"id": "arroz-con-pollo",
+		"name": "Arroz con pollo",
+		"type": "Segundo",
+		"difficulty": "Medio",
+		"origin": "Peru",
+		"description": "Arroz sazonado con cilantro y servido con pollo.",
+		"servings" : 6,
+		"time": 80,
+		"ingredients" : [
+			"piezas de pollo",
+			"tazas de aceite",
+			"cebolla",
+			"dientes de ajo",
+			"aji verde",
+			"cucharadita de aji panca",
+			"tazas de cerveza negra",
+			"tazas de arroz",
+			"tazas de arverjas",
+			"tazas de choclo desgranado",
+			"tazas de zanahoria picada",
+			"pimiento"
+		]
+	},
+	{
+		"id": "panqueques-con-canela",
+		"name": "Panqueques con canela y fresas",
+		"type": "Desayuno",
+		"difficulty": "Fácil",
+		"origin": null,
+		"description": "Panqueuque servido con frutas frescas y vainilla",
+		"servings" : 4,
+		"time": 30,
+		"ingredients" : [
+			"litro de leche",
+			"huevos",
+			"cucharadita de vainilla",
+			"gramos de azúcar",
+			"gramos de harina",
+			"gramos de fresa",
+			"gramos de queso Mascarpone",
+			"cucharaditas de mantequilla"
+		]
+	},
+	{
+		"id": "pisco-sour",
+		"name": "Pisco Sour",
+		"type": "Cóctel",
+		"difficulty": "Fácil",
+		"origin": "Peru",
+		"description": "Cóctel a base de Pisco y limón.",
+		"servings" : 2,
+		"time": 10,
+		"ingredients" : [
+			"onzas de pisco puro",
+			"onzas de jarabe de goma",
+			"onzas de jugo de limón",
+			"claras de huevo",
+			"cubos de hielo",
+			"gotas de amargo de angostura"	
+		]
+	},
+	{
+		"id": "fideo-a-lo-alfredo",
+		"name": "Fideo a lo Alfredo",
+		"type": "Fideos",
+		"difficulty": "Fácil",
+		"origin": "Italia",
+		"description": "Spaghetti con una salsa de mantequilla, queso y leche.",
+		"servings" : 6,
+		"time": 40,
+		"ingredients" : [
+			"kilo de fideos",
+			"gramos de mantequilla",
+			"lata de leche evaporada pura",
+			"tazas de queso parmesano rallado",
+			"gramos de jamón tipo ingles"
+		]
+	},
+	{
+		"id": "torta-de-manzana",
+		"name": "Torta de manzana",
+		"type": "Postre",
+		"difficulty": "Media",
+		"origin": null,
+		"description": "Pastel con trocitos de manzana",
+		"servings" : 20,
+		"time": 90,
+		"ingredients" : [
+			"tazas de harina",
+			"gramos de mantequilla",
+			"tazas de azúcar",
+			"huevos",
+			"manzanas",
+			"canela molida",
+			"polvo para hornear"
+		]
+	},
+	{
+		"id": "chicharron-de-pescado",
+		"name": "Chicharron de pescado",
+		"type": "Entrada",
+		"difficulty": "Media",
+		"origin": "Peru",
+		"description": "Trozos de pescado fritos y empanizados.",
+		"servings" : 4,
+		"time": 30,
+		"ingredients" : [
+			"kilo de pescado",
+			"limones",
+			"huevos",
+			"taza de harina",
+			"taza de maicena",
+			"aceite",
+			"perejil",
+			"sal y pimienta"
+		]
+	},
+	{
+		"id": "pavo-criollo-relleno",
+		"name": "Pavo criollo relleno",
+		"type": "Segundo",
+		"difficulty": "Dificil",
+		"origin": null,
+		"description": "Pavo de navidad con relleno.",
+		"servings" : 6,
+		"time": 200,
+		"ingredients" : [
+			"pavo de 7 kilos",
+			"tazas de ají colorado molido",
+			"tazas de sillao",
+			"tazas de vino blanco",
+			"tazas de aceite",
+			"cucharadas de ají amarillo molido",
+			"cucharadas de ajos molidos",
+			"cucharada de sal",
+			"cucharada de ajinomoto",
+			"cucharaditas de pimienta",
+			"cucharaditas de comino",
+			"orégano",
+			"kilos de cerdo molido",
+			"kilos pollo molido",
+			"cebolla mediana",
+			"pimiento soasadao y picado",
+			"tajadas de pan remojado en leche",
+			"tazas de arverjitas peladas",
+			"gramos de pecanas",
+			"gramos de pasas",
+			"huevos",
+			"cucharadas de vino",
+			"cucharada de ajo molido"
+		]
+	}
+]

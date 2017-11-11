@@ -1,0 +1,34 @@
+{
+	"id": "pisco-sour",
+	"name": "Pisco Sour",
+	"type": "Cóctel",
+	"difficulty": "Fácil",
+	"origin": "Peru",
+	"description": "Cóctel a base de Pisco y limón.",
+	"servings" : 2,
+	"time": 10,
+	"ingredients" : [
+		"onzas de pisco puro",
+		"onzas de jarabe de goma",
+		"onzas de jugo de limón",
+		"claras de huevo",
+		"cubos de hielo",
+		"gotas de amargo de angostura"
+	],
+	"quantity": [
+		4,
+		1,
+		1,
+		0.5,
+		2,
+		2
+	],
+	"preparation": [
+		{
+			"step": "Poner en una coctelera o en una licuadora todos los insumos esenciales en el siguiente orden: primero el pisco, luego el jarabe de goma, a continuación el jugo de limón, y finalmente la clara de huevo."
+		},
+		{
+			"step": "Batir por 5 segundos en licuadora. Servir en dos tiempos: primero servir la copa hasta la mitad, pausar y luego completar llenando la otra mitad."
+		}
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"id": "pavo-criollo-relleno",
+	"name": "Pavo criollo relleno",
+	"type": "Segundo",
+	"difficulty": "Dificil",
+	"origin": null,
+	"description": "Pavo de navidad con relleno.",
+	"servings" : 6,
+	"time": 200,
+	"ingredients": [
+		"pavo de 7 kilos",
+		"tazas de ají colorado molido",
+		"tazas de sillao",
+		"tazas de vino blanco",
+		"tazas de aceite",
+		"cucharadas de ají amarillo molido",
+		"cucharadas de ajos molidos",
+		"cucharada de sal",
+		"cucharada de ajinomoto",
+		"cucharaditas de pimienta",
+		"cucharaditas de comino",
+		"orégano",
+		"kilos de cerdo molido",
+		"kilos pollo molido",
+		"cebolla mediana",
+		"pimiento soasadao y picado",
+		"tajadas de pan remojado en leche",
+		"tazas de arverjitas peladas",
+		"gramos de pecanas",
+		"gramos de pasas",
+		"huevos",
+		"cucharadas de vino",
+		"cucharada de ajo molido"
+	],
+	"quantity" : [
+		1,
+		0.5,
+		0.5,
+		0.5,
+		0.5,
+		3,
+		3,
+		1,
+		1,
+		0.5,
+		0.5,
+		null,
+		0.25,
+		0.25,
+		1,
+		1,
+		4,
+		0.5,
+		50,
+		50,
+		3,
+		2,
+		1
+	],
+	"preparation": [
+		{
+			"step": "Para la maceración: Mezcle bien todos los ingredientes y embadurne el pavo por dentro y por fuera. Deje macerando por 12 horas."
+		},
+		{
+			"step": "Para el relleno: Caliente en una sarten 2 cucharadas de aceite y de margarina. Agregue la cebolla en cuadritos, ajos, sal, pimienta y comino. Agregue la carne de cerdo y el pollo, saltee las carnes, adicione el sillao, el vino y retire del fuego."
+		},
+		{
+			"step": "A la preparación anterior agregue el pan remojado, arverjitas sancochadas, pimiento, pasas, pecanas, huevos y forme la masa para el relleno, luego llene el pavo y cósalo. "
+		},
+		{
+			"step": "Unte el exterior del pavo con una mezcla de aji colorado, sillao, azúcar, mantequilla derretida y vino, colóquelo en la asadera sobre rodajas de papa y llévelo al horno a 160°C por 3 horas. "
+		}
+	]
+}

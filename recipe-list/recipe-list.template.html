@@ -1,0 +1,35 @@
+<ingredient-list></ingredient-list>
+<div class="row">
+	{{ingredient-list.ingredients}}
+	<ul id="recipes" class="col-md-8">
+	  <li class="col-lg-6" ng-repeat="recipe in $ctrl.recipes | filter: {name: $ctrl.query, type: $ctrl.querytype, ingredients: $ctrl.queryitem} | orderBy:$ctrl.orderProp"> 
+	    <div class="recipe-image" style="background-image: url(images/recipes/{{recipe.id}}.jpg)"></div> 
+	    <h2><a href="#!/recipes/{{recipe.id}}">{{recipe.name}}</a></h2> 
+	    <p>{{recipe.description}}</p> 
+	    <ul style="display:none">
+	    	<li ng-repeat="item in recipe.ingredients | filter: {name: $ctrl.queryitem}">{{item.quantity}}{{item.name}}</li>
+	    </ul>
+	  </li> 
+	</ul>
+	<div id="filter" class="col-md-4 ">
+		<h5>Nombre:</h5>
+		 <input class="filter-field" type="text" ng-model="$ctrl.query" placeholder="Buscar por nombre...">
+		<h5>Ingrediente:</h5>
+		 <input class="filter-field" type="text" ng-model="$ctrl.queryitem" placeholder="Buscar un ingrediente...">
+		<h5>Categoría:</h5>
+		 <select class="filter-field" ng-model="$ctrl.querytype">
+		 	<option value="">Cualquiera</option>
+		 	<option value="Desayuno">Desayuno</option>
+		 	<option value="Entrada">Entrada</option>
+		 	<option value="Segundo">Segundo</option>
+		 	<option value="Fideos">Fideos</option>
+		 	<option value="Postre">Postre</option>
+		 	<option value="Cóctel">Coctel</option>
+		 </select>
+		<h5>Orden:</h5>
+		<select class="filter-field" ng-model="$ctrl.orderProp" placeholder="Ordenar por...">
+			<option value="">Cualquiera</option>
+			<option  value="name">Alfabéticamente</option>
+		</select>
+	</div>
+</div><!-- End of "row" -->

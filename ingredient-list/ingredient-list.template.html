@@ -1,0 +1,21 @@
+<div class="row">
+	<div class="col-lg-12">
+		<div id="search">
+			<h2>Elegir ingredientes:</h2>
+			<h3>Ingredientes escogidos:</h3>
+			<div id="ingredients picked">
+				<li class="ingredient-item" ng-repeat="ingredient in $ctrl.picked">{{item}}</li>
+			</div>
+			<ul id="ingredients">
+				<li class="ingredient-container" ng-repeat="ingredient in $ctrl.ingredients">
+					<h4 class="ingredient-type" ng-click="isOpen = !isOpen">{{ingredient.name}}</h4>
+					<div class="items-container" ng-show="isOpen">
+						<div class="ingredient-item" ng-repeat="item in ingredient.items">
+							<input ng-model="item.on" type="checkbox" name="{{item.name}}"><label for="{{item.name}}">{{item.name}}</label>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>

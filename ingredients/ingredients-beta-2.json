@@ -1,0 +1,411 @@
+[
+
+    {
+        "on": false,
+        "type": "lacteo",
+        "name":"leche"},
+    {
+        "on": false,
+        "type": "lacteo",
+        "name":"huevo"},
+    {
+        "on": false,
+        "type": "lacteo",
+        "name":"leche condensada"},
+    {
+        "on": false,
+        "type": "lacteo",
+        "name":"mantequilla"},
+    {
+        "on": false,
+        "type": "lacteo",
+        "name":"queso cheddar"},
+    {
+        "on": false,
+        "type": "lacteo",
+        "name":"queso mozarella"},
+    {
+        "on": false,
+        "type": "lacteo",
+        "name":"queso americano"},
+    {
+        "on": false,
+        "type": "lacteo",
+        "name":"parmesano"},
+    {
+        "on": false,
+        "type": "lacteo",
+        "name":"yogurt"},
+    {
+        "on": false,
+        "type": "lacteo",
+        "name":"yogurt griego"},
+    {
+        "on": false,
+        "type": "lacteo",
+        "name":"queso mascarpone"},
+
+    {
+        "on": false,
+        "type": "carnes",
+        "name":"pollo"},
+    {
+        "on": false,
+        "type": "carnes",
+        "name":"carne molida"},
+    {
+        "on": false,
+        "type": "carnes",
+        "name":"tocino"},
+    {
+        "on": false,
+        "type": "carnes",
+        "name":"salchicha"},
+    {
+        "on": false,
+        "type": "carnes",
+        "name":"jamon"},
+    {
+        "on": false,
+        "type": "carnes",
+        "name":"hot dog"},
+    {
+        "on": false,
+        "type": "carnes",
+        "name":"pavo"},
+    {
+        "on": false,
+        "type": "carnes",
+        "name":"chorizo"},
+    {
+        "on": false,
+        "type": "carnes",
+        "name":"hamburguesa"},
+    {
+        "on": false,
+        "type": "carnes",
+        "name":"pato"},
+
+    {
+        "on": false,
+        "type": "vegetales",
+        "name":"ajo"},
+    {
+        "on": false,
+        "type": "vegetales",
+        "name":"cebolla"},
+    {
+        "on": false,
+        "type": "vegetales",
+        "name":"aceituna"},
+    {
+        "on": false,
+        "type": "vegetales",
+        "name":"tomate"},
+    {
+        "on": false,
+        "type": "vegetales",
+        "name":"papa"},
+    {
+        "on": false,
+        "type": "vegetales",
+        "name":"zanahoria"},
+    {
+        "on": false,
+        "type": "vegetales",
+        "name":"romero"},
+    {
+        "on": false,
+        "type": "vegetales",
+        "name":"perejil"},
+    {
+        "on": false,
+        "type": "vegetales",
+        "name":"camote"},
+    {
+        "on": false,
+        "type": "vegetales",
+        "name":"espinaca"},
+    {
+        "on": false,
+        "type": "vegetales",
+        "name":"apio"},
+    {
+        "on": false,
+        "type": "vegetales",
+        "name":"poro"},
+    {
+        "on": false,
+        "type": "vegetales",
+        "name":"coliflor"},
+    {
+        "on": false,
+        "type": "vegetales",
+        "name":"zapallo"},
+    {
+        "on": false,
+        "type": "vegetales",
+        "name":"palta"},
+    {
+        "on": false,
+        "type": "vegetales",
+        "name":"choclo"},
+    {
+        "on": false,
+        "type": "vegetales",
+        "name":"cebolla china"},
+
+    {
+        "on": false,
+        "type": "frutas",
+        "name":"limon"},
+    {
+        "on": false,
+        "type": "frutas",
+        "name":"manzana"},
+    {
+        "on": false,
+        "type": "frutas",
+        "name":"platano"},
+    {
+        "on": false,
+        "type": "frutas",
+        "name":"piña"},
+    {
+        "on": false,
+        "type": "frutas",
+        "name":"naranja"},
+    {
+        "on": false,
+        "type": "frutas",
+        "name":"coco"},
+    {
+        "on": false,
+        "type": "frutas",
+        "name":"durazno"},
+    {
+        "on": false,
+        "type": "frutas",
+        "name":"uva"},
+    {
+        "on": false,
+        "type": "frutas",
+        "name":"sandia"},
+    {
+        "on": false,
+        "type": "frutas",
+        "name":"lima"},
+    {
+        "on": false,
+        "type": "frutas",
+        "name":"cereza"},
+    {
+        "on": false,
+        "type": "frutas",
+        "name":"pera"},
+    {
+        "on": false,
+        "type": "frutas",
+        "name":"arandano"},
+    {
+        "on": false,
+        "type": "frutas",
+        "name":"fresa"},
+    {
+        "on": false,
+        "type": "frutas",
+        "name":"melon"},
+    {
+        "on": false,
+        "type": "frutas",
+        "name":"granadilla"},
+    {
+        "on": false,
+        "type": "frutas",
+        "name":"maracuya"},
+
+    {
+        "on": false,
+        "type": "especias",
+        "name":"comino"},
+    {
+        "on": false,
+        "type": "especias",
+        "name":"vainilla"},
+    {
+        "on": false,
+        "type": "especias",
+        "name":"oregano"},
+    {
+        "on": false,
+        "type": "especias",
+        "name":"laurel"},
+
+    {
+        "on": false,
+        "type": "mariscos",
+        "name":"atun"},
+    {
+        "on": false,
+        "type": "mariscos",
+        "name":"caballa"},
+    {
+        "on": false,
+        "type": "mariscos",
+        "name":"pota"},
+    {
+        "on": false,
+        "type": "mariscos",
+        "name":"choro"},
+    {
+        "on": false,
+        "type": "mariscos",
+        "name":"camaron"},
+    {
+        "on": false,
+        "type": "mariscos",
+        "name":"calamar"},
+    {
+        "on": false,
+        "type": "mariscos",
+        "name":"langosta"},
+
+    {
+        "on": false,
+        "type": "granos",
+        "name":"pan frances"},
+    {
+        "on": false,
+        "type": "granos",
+        "name":"harina"},
+    {
+        "on": false,
+        "type": "granos",
+        "name":"arroz"},
+    {
+        "on": false,
+        "type": "granos",
+        "name":"fideos"},
+    {
+        "on": false,
+        "type": "granos",
+        "name":"galletas de soda"},
+    {
+        "on": false,
+        "type": "granos",
+        "name":"tortilla"}
+    {
+        "on": false,
+        "type": "cremas",
+        "name":"huancaina"},
+    {
+        "on": false,
+        "type": "cremas",
+        "name":"tartara"},
+
+    {
+        "on": false,
+        "type": "nueces",
+        "name":"mani"},
+    {
+        "on": false,
+        "type": "nueces",
+        "name":"almendra"},
+    {
+        "on": false,
+        "type": "nueces",
+        "name":"pecana"},
+
+    {
+        "on": false,
+        "type": "postres",
+        "name":"chocolate"},
+    {
+        "on": false,
+        "type": "postres",
+        "name":"cocoa"},
+    {
+        "on": false,
+        "type": "postres",
+        "name":"nutella"},
+    {
+        "on": false,
+        "type": "postres",
+        "name":"manjarblanco"},
+    {
+        "on": false,
+        "type": "postres",
+        "name":"miel"},
+
+    {
+        "on": false,
+        "type": "bebidas",
+        "name":"coca cola"},
+    {
+        "on": false,
+        "type": "bebidas",
+        "name":"te"},
+    {
+        "on": false,
+        "type": "bebidas",
+        "name":"limonada"},
+    {
+        "on": false,
+        "type": "bebidas",
+        "name":"sprite"},
+    {
+        "on": false,
+        "type": "bebidas",
+        "name":"gingerale"},
+
+    {
+        "on": false,
+        "type": "sopas",
+        "name":"caldo de gallina"},
+    {
+        "on": false,
+        "type": "sopas",
+        "name":"sopa de tomate"},
+
+    {
+        "on": false,
+        "type": "legumbres",
+        "name":"lentejas"},
+    {
+        "on": false,
+        "type": "legumbres",
+        "name":"frijol canario"},
+    {
+        "on": false,
+        "type": "legumbres",
+        "name":"frijol castilla"},
+    {
+        "on": false,
+        "type": "legumbres",
+        "name":"pallares"},
+    {
+        "on": false,
+        "type": "legumbres",
+        "name":"arverjas"},
+
+    {
+        "on": false,
+        "type": "alcohol",
+        "name":"pisco"},
+    {
+        "on": false,
+        "type": "alcohol",
+        "name":"ron"},
+    {
+        "on": false,
+        "type": "alcohol",
+        "name":"vino rose"},
+    {
+        "on": false,
+        "type": "alcohol",
+        "name":"vino tinto"},
+    {
+        "on": false,
+        "type": "alcohol",
+        "name":"vino blanco"}
+]
